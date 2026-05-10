@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410473791154",
+    "project_id": "you-matter-5b83d",
+    "storage_bucket": "you-matter-5b83d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410473791154:android:def9d1efca999d18a853ab",
+        "android_client_info": {
+          "package_name": "com.example.you_matter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABN8i7iC_5kK4Zs5G02JsoKOPAv3nWkMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
